@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BearGame_v2", "BearGame_v2\BearGame_v2\BearGame_v2.csproj", "{99D5B3D1-3065-46EE-A19D-19D655F4F171}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "BearGame_v2Content", "BearGame_v2\BearGame_v2Content\BearGame_v2Content.contentproj", "{40F4888C-091E-4B28-89D8-94ED1ED22AFA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99D5B3D1-3065-46EE-A19D-19D655F4F171}.Debug|x86.ActiveCfg = Debug|x86
+		{99D5B3D1-3065-46EE-A19D-19D655F4F171}.Debug|x86.Build.0 = Debug|x86
+		{99D5B3D1-3065-46EE-A19D-19D655F4F171}.Release|x86.ActiveCfg = Release|x86
+		{99D5B3D1-3065-46EE-A19D-19D655F4F171}.Release|x86.Build.0 = Release|x86
+		{40F4888C-091E-4B28-89D8-94ED1ED22AFA}.Debug|x86.ActiveCfg = Debug|x86
+		{40F4888C-091E-4B28-89D8-94ED1ED22AFA}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
